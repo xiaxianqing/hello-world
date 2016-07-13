@@ -1,2 +1,3 @@
 # hello-world
-test for git
+test for git.
+enjoy it!
